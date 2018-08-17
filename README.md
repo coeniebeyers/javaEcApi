@@ -17,10 +17,4 @@ This pattern may be followed for requesting any of the other ECC endpoints which
 3. `cd javaEcApi`
 4. javac -cp json-simple-1.1.jar:. ECCConnectionExample.java
 5. java -cp json-simple-1.1.jar:. ECCConnectionExample
-~
-~
-~
-~
-~
-~
--- INSERT --
+
